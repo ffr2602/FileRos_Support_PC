@@ -10,7 +10,6 @@ sudo apt install ros-$ros-twist-mux
 sudo apt install ros-$ros-rplidar-ros
 sudo apt install ros-$ros-nav2-bringup -y
 sudo apt install ros-$ros-navigation2
-sudo apt install ros-$ros-turtlebot3* -y
 sudo apt install ros-$ros-slam-toolbox -y
 sudo apt install ros-$ros-robot-localization -y
 sudo apt install ros-$ros-image-transport-plugins
